@@ -1,0 +1,7 @@
+.idea/
+.ipynb_checkpoints/
+*.pyc
+venv/
+*.swp
+.DS_Store
+ch07/classes.png
